@@ -5,5 +5,5 @@
 
 I mainly program in Python but also familiar with other languages such as Lua etc...
 
-# Contact
-Discord: .youngaos
+## Contact
+* Discord: .youngaos
